@@ -1,2 +1,2 @@
-# dropex-simulation
-Dropex Simualtion
+# DROPEX-simulation
+Simulation for DROPEX Project done utilising AirSim and Unreal Engine
